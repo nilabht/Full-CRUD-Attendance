@@ -1,7 +1,14 @@
-# Attendance App (FastAPI + Redis + Celery)
+# CRUD Attendance App (FastAPI + Redis + Celery)
 
-A simple attendance management system built using FastAPI, Redis, Celery, Flower, and Docker.
-
+A Full CRUD attendance management system built using FastAPI, Redis, Celery, Flower, and Docker.
+Function:
+1. Role based access ( Admin, Employee)
+2. Create admin
+3. login as admin
+4. Register employee
+5. login as employee
+6. employee Check in / check out
+7. view all record as admin
 ---
 
 ## Prerequisites
