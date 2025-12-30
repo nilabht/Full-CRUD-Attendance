@@ -17,6 +17,7 @@ docker --version
 docker compose version
 ```
 Project Structure
+```
 CRUD/
 ├── app/
 │   ├── main.py
@@ -32,7 +33,7 @@ CRUD/
 ├── Dockerfile
 ├── requirements.txt
 └── .envRun the Application
-
+```
 From the directory where docker-compose.yml exists:
 
 cd learn/CRUD
